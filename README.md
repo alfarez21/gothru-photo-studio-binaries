@@ -1,0 +1,1 @@
+A repository that contains only binary files refers to a collection of files in a version-controlled environment, such as Git, that consists solely of precompiled or machine-readable files, rather than source code or text-based files.
